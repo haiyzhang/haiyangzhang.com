@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
+    - "!tmp/**"
+
+website:
+  title: "Haiyang Zhang"
+  site-url: "https://haiyangzhang.org"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research/index.qmd
+        text: Research
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: cv/index.qmd
+        text: CV
+      - href: flying/index.qmd
+        text: Flying
+  page-footer:
+    left: "Copyright 2026 Haiyang Zhang"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

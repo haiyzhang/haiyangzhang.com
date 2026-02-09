@@ -1,0 +1,28 @@
+/* Keep styling minimal during migration; refine after content parity */
+.navbar-brand {
+  font-weight: 600;
+}
+
+main.content {
+  max-width: 860px;
+}
+
+.abstract-toggle {
+  margin-left: 0.45rem;
+  background: none;
+  border: 0;
+  color: #0d6efd;
+  cursor: pointer;
+  font: inherit;
+  padding: 0;
+  text-decoration: underline;
+}
+
+.abstract-toggle:hover {
+  color: #0a58ca;
+}
+
+/* Slightly smaller paper titles on the research page */
+.research-page #quarto-document-content h3 {
+  font-size: 1.02rem;
+}
