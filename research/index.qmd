@@ -5,7 +5,7 @@ body-classes: research-page
 
 [Haiyang Zhang Google Scholar Profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7yto0lZfQscyE9yftidDQy_faFqy_jMkp9Vt5Fd1pu_ye8IFZaZPak_8UnL_e7Vle5fzFLiehIs8kz115FiA9sCYGP7w&user=-puXLeYAAAAJ)
 
-## Publications
+## Publications & Working Papers
 
 ### [Strategic Focus: Evidence from Private Equity Transactions in US Power Generation Sector](https://journals.aom.org/doi/10.5465/AMPROC.2025.183bp)
 
