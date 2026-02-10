@@ -2,21 +2,46 @@
 title: "Teaching"
 ---
 
-EC970: Economics of Strategy and Entrepreneurship
+## Teaching Overview
 
-I taught this course twice at the Harvard Economics Department, as part of the required curriculum for undergraduate economics concentrators.
+I have taught or assisted in teaching strategy, entrepreneurship, and economics courses across Harvard Business School, the Harvard Kennedy School, and the Harvard Economics Department. I try to bring my professional experience, from McKinsey & Company, Microsoft Research, and the United States Congress, into the classroom to connect academic ideas to real-world problems.
 
-- Spring 2025, course rating 4.86/5 (vs. department mean 4.09/5)
-- Fall 2024, course rating 5/5 (vs. department mean 4.01/5)
+## Courses
 
-**Feedback**
+### Undergraduate
 
-![](/assets/images/teaching/fall-2024-eval.png)
+- Economics of Strategy and Entrepreneurship
 
-![](/assets/images/teaching/spring-2025-eval.png)
+Selected evaluations:
+- Spring 2025 (EC970): Overall course rating 4.86/5 (department mean: 4.09/5)
+- Fall 2024 (EC970): Overall course rating 5.00/5 (department mean: 4.01/5)
 
-**Inspiration**
+### Doctoral
+
+- Theoretical and Empirical Perspectives on Entrepreneurship (Teaching Fellow, Josh Lerner)
+
+### MBA
+
+- Strategy and Technology (Teaching Fellow, Andy Wu)
+
+### MPA
+
+- Financial Crises: Concepts and Evidence (Teaching Fellow, Carmen Reinhart)
+- The Future of Globalization: Issues, Actors, and Decisions (Teaching Fellow, Lawrence Summers and Robert Lawrence)
+
+## What Students Say
+
+- "Haiyang was a brilliant teacher. I particularly enjoyed his ability to link the subject matter to his prior work experiences which helped to move the classroom discussion beyond the academic literature."
+
+- "Haiyang made the most mind numbing Economics class for people in other sections and made it one that I looked forward to going to."
+
+- "Incredibly kind and knowledgeable teacher. He always makes time for student questions and returns work at a quick and steady pace with lots of useful feedback. He emphasizes that he does not want the class to be a burden, but rather an opportunity to learn interesting and useful things which is much appreciated."
+
+- "In my time at Harvard there hasn't been many teachers with his level of knowledge, experience and passion. He did an amazing job with his explanations and trying to teach to all levels in the class."
+
+## Inspiration
 
 I am fortunate to have had many good teachers in my academic training. As I develop my own pedagogical style, a few things I often think about:
 
-Apollonian and Dionysian [styles of teaching](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2325-8012.2001.tb00418.x)
+- Apollonian and Dionysian styles of teaching
+  <https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2325-8012.2001.tb00418.x>
