@@ -21,3 +21,9 @@ Outside work, I enjoy [flying](/flying/) a Cessna 172. Flying W (N14) is my home
 
 </div>
 </div>
+
+<div class="social-buttons" aria-label="External profiles">
+  <a class="social-button" href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7yto0lZfQscyE9yftidDQy_faFqy_jMkp9Vt5Fd1pu_ye8IFZaZPak_8UnL_e7Vle5fzFLiehIs8kz115FiA9sCYGP7w&user=-puXLeYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+  <a class="social-button" href="https://github.com/haiyzhang" target="_blank" rel="noopener noreferrer">GitHub</a>
+  <a class="social-button" href="https://www.linkedin.com/in/haiyang-zhang/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+</div>
