@@ -3,72 +3,86 @@ title: "Research"
 body-classes: research-page
 ---
 
-I am interested in **corporate** and **competitive** strategy. My current research examines entry and competition in infrastructure sectors, especially settings where ownership and regulation shape how firms compete. My work is informed and inspired by my experience as a McKinsey consultant and as a market designer in the energy market.
+I study **corporate** and **competitive** strategy. My research examines entry, exit, competition, and innovation in technology infrastructure markets, including data centers, electricity generation, and wireless spectrum. A second stream examines how generative AI reshapes entrepreneurship and competitive advantage.
 
 
 ## Job Market Paper
 
-### [Strategic Focus: Evidence from Private Equity Transactions in US Power Generation Sector](https://journals.aom.org/doi/10.5465/AMPROC.2025.183bp)
+### [Fossil, Data, Private Capital: Evidence from U.S. Electricity Generation](https://www.dropbox.com/scl/fi/y7ybmv7jsle5ug0maowyc/haiyang_jmp.pdf?rlkey=rzydwv7e7g3zj5hzsfppf23pv&st=lxu5vo1o&dl=0)
 
-Solo-authored
+<p class="paper-meta"><span class="paper-authors">Solo-authored</span> <span class="pill pill-accent">Latest working version: July 2026</span></p>
 
-Abstract: This study investigates the impact of private equity (PE) ownership on productivity, and finds that PE ownership drives significant productivity improvements in portfolio companies through strategic focus on core technologies.<span class="abstract-rest" hidden> Using high-frequency production data and a decade of transaction history from the US power generation sector, I show that private equity ownership improves productivity by about 2% within the first five years post-acquisition and approximately 5% in the long term. I find evidence that the underlying mechanism in PE value creation-strategic focus in core technologies-contributes to the productivity gains. The findings extend our understanding of PE value creation strategies beyond conventional explanations. The study offers practical insights for corporate strategy and policy. For strategists, the results highlight the vital role of ownership strategy in unlocking an organization's technological potential and driving competitive advantage. For policymakers, understanding the mechanisms of PE value creation could inform regulatory decisions regarding acquisitions and ultimately enhance industry efficiency and competitiveness.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
+This paper studies electricity generation as a critical infrastructure supporting the expansion of artificial intelligence.<span class="abstract-rest" hidden> I examine how private capital affects the operation and longevity of the fossil power plants that increasingly supply data center demand. Linking high frequency production and emissions data to transaction level ownership records, I find that private equity ownership improves thermal efficiency by about 2&ndash;5%, reducing annual CO&#8322; emissions equivalent to those of 1.3 million passenger vehicles. These operating gains come with a countervailing effect: private equity also reduces the hazard of fossil asset retirement by roughly three-quarters, making the net climate impact depend on what capacity would otherwise replace retired plants. To discipline the mechanism, I derive and test predictions about sponsor-asset matching, heterogeneous treatment effects, and post-acquisition operating practices. The gains concentrate where owners possess technologically relevant portfolio experience and greater control over plant operations, consistent with specialist knowledge being transferred across related assets. The paper shows how ownership change can reorganize legacy infrastructure in ways that improve short-run operating performance while reshaping the long-run path of decarbonization.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
+
+## Dissertation
+
+### Beyond Price: Essays on Entry and Competition in Foundational Markets
+
+<p class="paper-meta"><span class="paper-authors">Committee: Juan Alc&aacute;cer (chair), Shane Greenstein, Dennis Yao, Jay Barney, Arkadiy Sakhartov</span></p>
+
+- *Winner*, Will Mitchell Dissertation Research Grant, Strategic Management Society, 2026&ndash;2027
+- *Top 10 Finalist*, Three Minute Thesis (3MT) Competition, Harvard University, 2026
+- *Best Paper Designation* (Chapter 1), Academy of Management Annual Meeting, 2025
+- *Best Paper Nomination* (Chapter 2), Strategic Management Society Annual Meeting, 2026
 
 ## Submitted Papers
 
-### [[title omitted for peer-review]](/research/) (with J. Barney)
+### Invisible Firms, Competitive Neglect, and Sustained Profit Generation
 
-Under review, *Strategic Management Journal*
+<p class="paper-meta"><span class="paper-authors">with J. Barney</span> <span class="pill">Under review, <em>Strategic Management Journal</em></span></p>
 
 Abstract: Profit-generating firms can sustain their performance-even in the absence of barriers to entry and costly to imitate resources and capabilities-if they and the profits they generate are "invisible" to potential competitors.<span class="abstract-rest" hidden> "Invisibility" can lead to "competitive neglect" which can enable a firm to generate "unawareness rents," all without traditional impediments to competition. This paper explores the conditions under which "invisibility" may exist and persist, how firm "invisibility" can evolve over time, and the relationship between invisibility and other impediments to competition.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
-### [[title omitted for peer-review]](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.13666abstract) (with A. Wu, A. Peterson)
+### The Impact of Generative AI on the Ability of Entrepreneurial Opportunities to Generate Sustained Competitive Advantages
 
-Under review, *Strategic Management Journal*
+<p class="paper-meta"><span class="paper-authors">with R. Wuebker, J. Barney</span> <span class="pill">Conditionally accepted, <em>Strategic Entrepreneurship Journal</em></span></p>
+
+### Wireless Communications Equipment Markets: Evolution, Classification, Measurement
+
+<p class="paper-meta"><span class="paper-authors">with N. Greenstein, S. Greenstein, R. Fontana, R. Zhang, O. Olivarez, DY Kim</span> <span class="pill">Accepted, <em>Telecommunications Policy</em></span></p>
+
+### [Strategic Focus: Evidence from the U.S. Power Generation Sector](https://journals.aom.org/doi/10.5465/AMPROC.2025.183bp)
+
+<p class="paper-meta"><span class="paper-authors">Solo-authored</span> <span class="pill"><em>Academy of Management Best Paper Proceedings</em></span></p>
+
+<p class="paper-note">An earlier version of the job market paper.</p>
+
+### [Entrepreneurial Projection Strategy: Constructing Credibility Through Grounding and Calibration](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.13666abstract)
+
+<p class="paper-meta"><span class="paper-authors">with A. Peterson, A. Wu (authorship in alphabetical order)</span> <span class="pill">Under review, <em>Strategic Management Journal</em></span></p>
 
 Abstract: Revenue projections in entrepreneurship are speculative: entrepreneurs can make up any number, and investors know that the number is made up.<span class="abstract-rest" hidden> We develop a framework of entrepreneurial projection strategy explaining how these projections acquire persuasive force under bidirectional information asymmetry. Grounding makes projections analytically interpretable by disclosing entrepreneur-held assumptions and contingencies. Calibration makes projections plausible relative to investor-held benchmarks. Using 1,493 investor evaluations from 436 investors assessing 254 startup business plans, we find that larger revenue projections are evaluated more favorably when accompanied by cost estimates or risk disclosure. Projections above the evaluation cohort are rewarded, but the benefit reverses as projections stretch further beyond peers. These findings illuminate how entrepreneurs construct credibility from seemingly made-up numbers.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
-## Publications
-
-### Wireless Communications Equipment Markets: Evolution, Classification, Measurement (with N. Greenstein, S. Greenstein, R. Fontana, R. Zhang, O. Olivarez, DY Kim)
-
-Accepted, *Telecommunications Policy*
-
-### The Impact of Generative AI on the Ability of Entrepreneurial Opportunities to Generate Sustained Competitive Advantages (with R. Wuebker, J. Barney)
-
-Conditionally accepted, *Strategic Entrepreneurship Journal*
-
-### [Commodity Bonds: A Practical Solution to Crisis Vulnerability in Commodity Dependent Developing Countries](https://openknowledge.worldbank.org/handle/10986/28445) (with Proenca, Qamar and Simard)
-
-Included in the book *Financing Sustainable Development: Ideas for Action 2017*, published by the World Bank Group.
-
-Received **Honorable Mention** at the Annual Meetings of the Boards of Governors of the World Bank Group (WBG) and the International Monetary Fund (IMF), 2017.
-
-Abstract: Over two-thirds of developing countries' economies are highly dependent on commodities.<span class="abstract-rest" hidden> These Commodity Dependent Developing Countries (CDDCs) face lower long-term growth prospects and higher risks of entering and remaining in international debt crises. Commodity bonds-bond contracts with coupon payments linked to the price of a country's main commodity export-are an efficient way of promoting crisis resilience in CDDCs. The idea of commodity bonds is not new. However, commodity bond markets never achieved enough scale to become a viable option for CDDCs. Here we review past experience, identify barriers to adoption, and propose a novel arrangement to overcome these challenges. In our solution, the World Bank plays an important role in disentangling sovereign risk from commodity risk, making the commodity bond market more attractive to both debt issuing countries and private sector lenders. We illustrate the proposal with an application to Mongolia-a country with over 40 percent of export revenue from copper alone. Finally, we present a practical implementation plan to create a large, liquid commodity bond market that would present a new option for CDDCs to increase economic resilience and enhance long-term growth.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
-
 ## Working Papers
 
-### [Regulating Product Innovation: Certification Reform and Market Evolution in U.S. Wireless Communications](/research/) (with S. Greenstein, R. Fontana, DY Kim)
+### Regulating Product Innovation: Certification Reform and Market Evolution in U.S. Wireless Communications
+
+<p class="paper-meta"><span class="paper-authors">with S. Greenstein, R. Fontana, DY Kim</span> <span class="pill">Manuscript available upon request</span></p>
 
 Abstract: How does a decline in regulatory burdens shape product introduction, firm participation, and competitive dynamics in technology markets?<span class="abstract-rest" hidden> This study examines the Federal Communications Commission's transformation of wireless device regulation between 1997 and 2001. Using administrative records covering nearly 200,000 equipment authorization applications between 1990 and 2015, the study documents market, firm, and product outcomes following a decline in regulatory costs. The study documents four broad patterns. First, regulatory processing times fell sharply, followed by a sustained expansion in product introductions and firm participation, especially in unlicensed spectrum applications. Second, this expansion was driven disproportionately by new entrants, who contributed extensively to product variety and experimentation. Third, despite heightened entry and competition, established firms retained persistent survival advantages. Fourth, the combination of widespread entry and incumbent persistence is difficult to reconcile with strong forms of regulatory capture. Taken together, the findings suggest that well-designed regulatory reforms can simultaneously enable entrant-led experimentation while preserving incumbent persistence. The findings inform contemporary debates on regulating emerging technologies, in which similar privatized certification models are being considered.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
-### When the Storm Hits: Climate Shocks and Multi-Unit Firm Location Strategy (with J. Alcacer)
+### When the Storm Hits: Climate Shocks and Multi-Unit Firm Location Strategy
 
-Data and analysis in progress
+<p class="paper-meta"><span class="paper-authors">with J. Alc&aacute;cer</span> <span class="pill">Data and analysis in progress</span></p>
 
-### Entrepreneurship and AI: Evidence from GPT-Powered Bing (with S. Counts)
+### Entrepreneurship and AI: Evidence from GPT-Powered Bing
 
-Under Microsoft Research internal review
+<p class="paper-meta"><span class="paper-authors">with S. Counts</span> <span class="pill">Under Microsoft Research internal review</span></p>
 
 ### [Incorporating Google Trends Data Using Bayesian Structural Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3085010)
 
-(Central Bank of Sri Lanka [presentation](https://drive.google.com/file/d/1zC5rrH2GGesAVeavDfSHYoXu0I3f5AiP/view?usp=sharing))
+<p class="paper-meta"><span class="paper-authors">Solo-authored</span> <span class="pill">Central Bank of Sri Lanka <a href="https://drive.google.com/file/d/1zC5rrH2GGesAVeavDfSHYoXu0I3f5AiP/view?usp=sharing">presentation</a></span></p>
 
 Abstract: The paper examines the benefits of incorporating Google Trends data in predicting consumer confidence in Sri Lanka.<span class="abstract-rest" hidden> Increasing prediction accuracy: The Central Bank of Sri Lanka is able to forecast consumer confidence with greater certainty. Reducing time lag: The Central Bank is able to make real-time prediction of consumer confidence. The first benefit results from the ability of using Google search queries to reflect consumer confidence. Google Inc. classifies search queries into categories via Google Trends service. Incorporating Google Trends data increases the predictive power of the forecast model, compared to AR(1) baseline. The second benefit arises because Google Trends data are available in real time. Economic time series, like consumer confidence, are reported infrequently, often monthly or quarterly. Using Google Trends data reduces the time lag of consumer confidence reporting.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
-### [The Impact of China's Official Development Finance on Other Developing Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3173445)
+## Other Writing
 
-Abstract: The paper uses a fixed effect model to detect the impact of China's official development finance program.<span class="abstract-rest" hidden> It shows that China's official development finance has a positive effect on bilateral trade. Further, China's official development finance has stronger effect on bilateral trade in democratic recipient countries than in autocratic ones. Likewise, it has stronger effect on bilateral trade in the least developed countries (LDCs) than in middle-income countries (MICs). The results of the paper make the argument for China to direct more official development finance to recipient countries with democratic attributes and at a low level of per capita income, assuming promoting bilateral trade is one of China's policy objectives. The results of the paper have significant policy implications in international development, because assisting the least developed members with democratic attributes is both in China's own interest and is broadly consistent with the view held by traditional donors and lenders.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
+- Barney, J.B., **Zhang, H.**, & Neumann, J. (2026). [Invisible companies](https://colossus.com/article/invisible-companies/). *Colossus*.
+- **Zhang, H.**, Stewart, S., Chui, M., Manyika, J., Julien, J.P., Dame Hunt, V., Sternfels, B., & Woetzel, J. (2021). [The economic state of Black America](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/the-economic-state-of-black-america-what-is-and-what-could-be). McKinsey & Company.
+- **Zhang, H.** (2020). Cross-country GDP comparison: [Purchasing power parity](https://www.ftchinese.com/story/001087981?full=y&ccode=2G202004&archive) sexennial update. *The Financial Times*.
+- Laboure, M., **Zhang, H.**, & Braunstein, J. (2018). The rise of [Silicon China](https://www.project-syndicate.org/commentary/china-artificial-intelligence-research-development-by-marion-laboure-1-et-al-2018-04). *Project Syndicate*.
+- **Zhang, H.** (2017). The low [U.S. unemployment rate](https://studentreview.hks.harvard.edu/the-low-u-s-unemployment-rate-should-not-be-celebrated/) should not be celebrated. *Harvard Kennedy School Review*.
+- **Zhang, H.** (2017). [U.S. manufacturing](https://studentreview.hks.harvard.edu/u-s-manufacturing-jobs-are-not-coming-back/) jobs are not coming back. *Harvard Kennedy School Review*.
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {

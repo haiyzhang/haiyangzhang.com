@@ -1,26 +1,29 @@
 ---
-title: "About Me"
+pagetitle: "Haiyang Zhang"
 ---
 
 <div class="home-layout">
 <div class="home-photo">
-<img src="https://haiyangz.wordpress.com/wp-content/uploads/2024/01/haiyang-zhang-hbs-resize-square.jpg?w=1200" alt="Haiyang Zhang" class="home-headshot" />
+<img src="/assets/images/haiyang-zhang.jpg" alt="Haiyang Zhang" class="home-headshot" />
 </div>
 
 <div class="home-text">
 
-Welcome! I am a fourth-year doctoral candidate in the Strategy unit at Harvard Business School. I will be on the 2026-2027 academic job market.
+<h1 class="home-name">Haiyang Zhang</h1>
+<p class="home-role">PhD Candidate in Strategy, Harvard Business School</p>
 
-I am interested in **corporate** and **competitive** strategy. My current research examines entry and competition in infrastructure sectors, especially settings where ownership and regulation shape how firms compete. My work is informed and inspired by my experience as a McKinsey consultant and as a market designer in the energy market.
+I study **corporate** and **competitive** strategy. My research examines entry, exit, competition, and innovation in technology infrastructure markets, including data centers, electricity generation, and wireless spectrum. A second stream examines how generative AI reshapes entrepreneurship and competitive advantage. My work is informed and inspired by my experience as a McKinsey consultant and as a market designer in the energy market.
+
+My job market paper, [*Fossil, Data, Private Capital: Evidence from U.S. Electricity Generation*](/research/), examines how private capital affects the operation and longevity of the fossil power plants that increasingly supply data center demand.
 
 Outside work, I enjoy [flying](/flying/) a Cessna 172. Cape May (WWD) is one of my favorite destinations.
 
-</div>
-</div>
-
-
-<div class="social-buttons" aria-label="External profiles">
+<div class="social-buttons" aria-label="Contact and external profiles">
+  <a class="social-button social-button-primary" href="mailto:hzhang@hbs.edu">Email</a>
   <a class="social-button" href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7yto0lZfQscyE9yftidDQy_faFqy_jMkp9Vt5Fd1pu_ye8IFZaZPak_8UnL_e7Vle5fzFLiehIs8kz115FiA9sCYGP7w&user=-puXLeYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
-  <a class="social-button" href="https://github.com/haiyzhang" target="_blank" rel="noopener noreferrer">GitHub</a>
   <a class="social-button" href="https://www.linkedin.com/in/haiyang-zhang/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  <a class="social-button" href="https://github.com/haiyzhang" target="_blank" rel="noopener noreferrer">GitHub</a>
+</div>
+
+</div>
 </div>

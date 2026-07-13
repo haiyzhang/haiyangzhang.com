@@ -12,6 +12,8 @@ website:
   title: "Haiyang Zhang"
   site-url: "https://haiyangzhang.org"
   navbar:
+    background: "#ffffff"
+    foreground: dark
     left:
       - href: index.qmd
         text: Home
@@ -22,7 +24,7 @@ website:
       - href: flying/index.qmd
         text: Flying
   page-footer:
-    left: "Copyright 2026 Haiyang Zhang"
+    center: "&copy; 2026 Haiyang Zhang"
 
 format:
   html:

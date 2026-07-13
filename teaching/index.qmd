@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-I have taught or assisted in teaching strategy, entrepreneurship, and economics courses across **doctoral**, **MBA**, **MPA**, and **undergraduate** levels at Harvard Business School, the Harvard Kennedy School, and the Harvard Economics Department. I try to bring my professional experience, from McKinsey & Company, Microsoft Research, and the World Bank, into the classroom to connect academic ideas to real-world problems.
+I have taught or assisted in teaching strategy, entrepreneurship, and economics courses across **doctoral**, **MBA**, **MPP**, and **undergraduate** levels at Harvard Business School, the Harvard Kennedy School, and the Harvard Economics Department. I try to bring my professional experience, from McKinsey & Company, Microsoft Research, and the World Bank, into the classroom to connect academic ideas to real-world problems.
 
 ## Courses
 
@@ -16,30 +16,29 @@ Evaluations:
 
 ### Doctoral
 
-- Theoretical and Empirical Perspectives on Entrepreneurship (Teaching Fellow, Josh Lerner)
+- Theoretical and Empirical Perspectives on Entrepreneurship (Teaching Fellow, Josh Lerner and Shai Bernstein)
 
 ### MBA
 
-- Strategy and Technology (Teaching Fellow, Andy Wu)
+- Technology and Strategy (Teaching Fellow, Andy Wu)
 
-### MPA
+### MPP
 
 - Financial Crises: Concepts and Evidence (Teaching Fellow, Carmen Reinhart)
 - The Future of Globalization: Issues, Actors, and Decisions (Teaching Fellow, Lawrence Summers and Robert Lawrence)
 
 ## What Students Say
 
-- "Haiyang was a brilliant teacher. I particularly enjoyed his ability to link the subject matter to his prior work experiences which helped to move the classroom discussion beyond the academic literature."
+> "Haiyang was a brilliant teacher. I particularly enjoyed his ability to link the subject matter to his prior work experiences which helped to move the classroom discussion beyond the academic literature."
 
-- "Haiyang made the most mind numbing Economics class for people in other sections and made it one that I looked forward to going to."
+> "Haiyang made the most mind numbing Economics class for people in other sections and made it one that I looked forward to going to."
 
-- "Incredibly kind and knowledgeable teacher. He always makes time for student questions and returns work at a quick and steady pace with lots of useful feedback. He emphasizes that he does not want the class to be a burden, but rather an opportunity to learn interesting and useful things which is much appreciated."
+> "Incredibly kind and knowledgeable teacher. He always makes time for student questions and returns work at a quick and steady pace with lots of useful feedback. He emphasizes that he does not want the class to be a burden, but rather an opportunity to learn interesting and useful things which is much appreciated."
 
-- "In my time at Harvard there hasn't been many teachers with his level of knowledge, experience and passion. He did an amazing job with his explanations and trying to teach to all levels in the class."
+> "In my time at Harvard there hasn't been many teachers with his level of knowledge, experience and passion. He did an amazing job with his explanations and trying to teach to all levels in the class."
 
 ## Inspiration
 
 I am fortunate to have had many good teachers in my academic training. As I develop my own pedagogical style, a few things I often think about:
 
-- Apollonian and Dionysian styles of teaching
-  <https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2325-8012.2001.tb00418.x>
+- [Apollonian and Dionysian styles of teaching](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2325-8012.2001.tb00418.x)
