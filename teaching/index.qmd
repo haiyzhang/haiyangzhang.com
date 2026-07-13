@@ -10,9 +10,20 @@ I have taught or assisted in teaching strategy, entrepreneurship, and economics 
 
 - Economics of Strategy and Entrepreneurship
 
-Evaluations:
-- Spring 2025 (EC970): Course rating 4.86/5 (department mean: 4.09/5)
-- Fall 2024 (EC970): Course rating 5.00/5 (department mean: 4.01/5)
+<div class="eval-cards">
+<div class="eval-card">
+<div class="eval-term">Fall 2024 &middot; EC970</div>
+<div class="eval-score">5.00<span class="eval-outof"> / 5</span></div>
+<div class="eval-meter" role="img" aria-label="Course rating 5.00 out of 5; department mean 4.01"><span class="eval-fill" style="width:100%"></span><span class="eval-tick" style="left:80.2%"></span></div>
+<div class="eval-benchmark">Department mean 4.01</div>
+</div>
+<div class="eval-card">
+<div class="eval-term">Spring 2025 &middot; EC970</div>
+<div class="eval-score">4.86<span class="eval-outof"> / 5</span></div>
+<div class="eval-meter" role="img" aria-label="Course rating 4.86 out of 5; department mean 4.09"><span class="eval-fill" style="width:97.2%"></span><span class="eval-tick" style="left:81.8%"></span></div>
+<div class="eval-benchmark">Department mean 4.09</div>
+</div>
+</div>
 
 ### Doctoral
 

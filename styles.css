@@ -412,6 +412,94 @@ footer.footer .nav-footer a {
 /* ============================================================
    Teaching page
    ============================================================ */
+.eval-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+  margin: 0.5rem 0 1.3rem 0;
+}
+
+.eval-card {
+  flex: 1 1 230px;
+  max-width: 300px;
+  border: 1px solid var(--hairline);
+  border-radius: 10px;
+  padding: 0.9rem 1.05rem 0.85rem;
+  background: #ffffff;
+}
+
+.eval-card p {
+  margin: 0 !important;
+}
+
+.eval-term {
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  margin-bottom: 0.3rem;
+}
+
+.eval-score {
+  font-family: var(--serif);
+  font-size: 1.85rem;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.1;
+  margin-bottom: 0.55rem;
+}
+
+.eval-outof {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--ink-muted);
+}
+
+.eval-meter {
+  position: relative;
+  height: 6px;
+  border-radius: 4px;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  margin-bottom: 0.5rem;
+}
+
+.eval-fill {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  display: block;
+  border-radius: 4px;
+  background: var(--crimson);
+}
+
+.eval-tick {
+  position: absolute;
+  top: -3px;
+  bottom: -3px;
+  width: 2px;
+  display: block;
+  border-radius: 1px;
+  background: var(--ink-soft);
+}
+
+.eval-benchmark {
+  font-size: 0.84rem;
+  color: var(--ink-muted);
+}
+
+.eval-benchmark::before {
+  content: "";
+  display: inline-block;
+  width: 2px;
+  height: 0.72em;
+  border-radius: 1px;
+  background: var(--ink-soft);
+  margin-right: 0.42em;
+}
+
 blockquote {
   border-left: 3px solid var(--crimson-border);
   background: var(--surface);
