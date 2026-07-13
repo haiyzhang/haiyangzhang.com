@@ -211,6 +211,12 @@ footer.footer .nav-footer a {
   font-weight: 600;
   line-height: 1.15;
   margin: 0 0 0.35rem 0;
+  color: var(--ink);
+}
+
+/* Pandoc wraps the div's text in a <p>; neutralize its margins */
+#quarto-document-content .home-name p {
+  margin: 0;
 }
 
 .home-role {
