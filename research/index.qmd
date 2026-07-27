@@ -53,7 +53,7 @@ Abstract: A central concern of many policy debates has been to foster more innov
 
 ### [Entrepreneurial Projection Strategy: Constructing Credibility Through Grounding and Calibration](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.13666abstract)
 
-<p class="paper-meta"><span class="paper-authors">with A. Peterson, A. Wu (authorship in alphabetical order)</span> <span class="pill">Under review</span></p>
+<p class="paper-meta"><span class="paper-authors">with A. Peterson, A. Wu (authorship in alphabetical order)</span> <span class="pill">Revise &amp; resubmit</span></p>
 
 Abstract: Revenue projections in entrepreneurship are speculative: entrepreneurs can make up any number, and investors know that the number is made up.<span class="abstract-rest" hidden> We develop a framework of entrepreneurial projection strategy explaining how these projections acquire persuasive force under bidirectional information asymmetry. Grounding makes projections analytically interpretable by disclosing entrepreneur-held assumptions and contingencies. Calibration makes projections plausible relative to investor-held benchmarks. Using 1,493 investor evaluations from 436 investors assessing 254 startup business plans, we find that larger revenue projections are evaluated more favorably when accompanied by cost estimates or risk disclosure. Projections above the evaluation cohort are rewarded, but the benefit reverses as projections stretch further beyond peers. These findings illuminate how entrepreneurs construct credibility from seemingly made-up numbers.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
