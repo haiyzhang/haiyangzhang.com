@@ -2,6 +2,11 @@
 title: "CV"
 ---
 
+<div class="cv-mobile">
+<p>For easy reading on a phone, open the PDF in your browser's full-screen viewer:</p>
+<a class="cv-open" href="/assets/haiyang_cv.pdf">Open the CV (PDF)</a>
+</div>
+
 <iframe class="cv-frame" src="/assets/haiyang_cv.pdf" title="Haiyang Zhang CV"></iframe>
 
-[Download the PDF](/assets/haiyang_cv.pdf).
+<p class="cv-download">[Download the PDF](/assets/haiyang_cv.pdf).</p>

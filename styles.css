@@ -534,6 +534,41 @@ blockquote p:last-child {
   background: #ffffff;
 }
 
+/* Phones render only the first page of an embedded PDF; swap the
+   embed for a direct link into the browser's full-screen viewer. */
+.cv-mobile {
+  display: none;
+  border: 1px solid var(--hairline);
+  border-radius: 10px;
+  background: var(--surface);
+  padding: 1.1rem 1.2rem 1.25rem;
+}
+
+.cv-mobile p {
+  margin: 0 0 0.85rem;
+  color: var(--ink-soft);
+}
+
+.cv-open {
+  display: inline-block;
+  padding: 0.55rem 1.2rem;
+  border-radius: 999px;
+  background: var(--crimson);
+  color: #ffffff !important;
+  font-weight: 600;
+  font-size: 0.98rem;
+  text-decoration: none !important;
+}
+
+.cv-open:hover {
+  background: var(--crimson-deep);
+}
+
+@media (max-width: 760px) {
+  .cv-mobile { display: block; }
+  .cv-frame, .cv-download { display: none; }
+}
+
 /* ============================================================
    Responsive
    ============================================================ */
