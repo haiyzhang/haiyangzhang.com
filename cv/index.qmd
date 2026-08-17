@@ -3,3 +3,5 @@ title: "CV"
 ---
 
 <iframe class="cv-frame" src="/assets/haiyang_cv.pdf" title="Haiyang Zhang CV"></iframe>
+
+[Download the PDF](/assets/haiyang_cv.pdf).
