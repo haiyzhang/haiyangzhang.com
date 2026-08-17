@@ -565,8 +565,7 @@ blockquote p:last-child {
 }
 
 @media (max-width: 760px) {
-  .cv-mobile { display: block; }
-  .cv-frame { display: none; }
+  .cv-mobile { display: block; margin-bottom: 1rem; }
 }
 
 /* ============================================================

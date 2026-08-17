@@ -3,7 +3,7 @@ title: "CV"
 ---
 
 <div class="cv-mobile">
-<p>For easy reading on a phone, open the PDF in your browser's full-screen viewer:</p>
+<p>On a phone, the preview below may show only the first page. For the full CV:</p>
 <a class="cv-open" href="/assets/haiyang_cv.pdf">Open the CV (PDF)</a>
 </div>
 
