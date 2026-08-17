@@ -10,6 +10,7 @@ website:
   search: false
   title: "Haiyang Zhang"
   site-url: "https://haiyangzhang.org"
+  google-analytics: "G-11XDMN6Y6E"
   navbar:
     background: "#ffffff"
     foreground: dark
