@@ -8,5 +8,3 @@ title: "CV"
 </div>
 
 <iframe class="cv-frame" src="/assets/haiyang_cv.pdf" title="Haiyang Zhang CV"></iframe>
-
-<p class="cv-download">[Download the PDF](/assets/haiyang_cv.pdf).</p>
