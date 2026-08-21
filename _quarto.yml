@@ -5,6 +5,8 @@ project:
     - "*.qmd"
     - "**/*.qmd"
     - "!tmp/**"
+  resources:
+    - "jmp/**"
 
 website:
   search: false
@@ -25,6 +27,8 @@ website:
         text: Flying
       - href: cv/index.qmd
         text: CV
+      - href: /jmp/
+        text: Job Market Paper
   page-footer:
     center: "&copy; 2026 Haiyang Zhang"
 

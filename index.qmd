@@ -14,7 +14,7 @@ pagetitle: "Haiyang Zhang"
 
 I study **corporate** and **competitive** strategy. My research examines entry, exit, competition, and innovation in technology infrastructure markets, including data centers, electricity generation, and wireless spectrum. A second stream examines how generative AI reshapes entrepreneurship and competitive advantage. My work is informed and inspired by my experience as a McKinsey consultant and as a market designer in the energy market.
 
-My job market paper, [*Ownership, Strategic Focus, and Asset Productivity: Evidence from U.S. Electricity Generation*](/research/), examines how private capital affects the operation and longevity of the fossil power plants that increasingly supply data center demand.
+My job market paper, [*Ownership, Strategic Focus, and Asset Productivity: Evidence from U.S. Electricity Generation*](/jmp/), examines how private capital affects the operation and longevity of the fossil power plants that increasingly supply data center demand.
 
 Outside work, I enjoy [flying](/flying/) a Cessna 172. Cape May (WWD) is one of my favorite destinations.
 
