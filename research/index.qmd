@@ -8,9 +8,9 @@ I study **corporate** and **competitive** strategy. My research examines entry, 
 
 ## Job Market Paper
 
-### Ownership, Strategic Focus, and Asset Productivity: Evidence from U.S. Electricity Generation
+### [Ownership, Strategic Focus, and Asset Productivity: Evidence from U.S. Electricity Generation](/jmp/)
 
-<p class="paper-meta"><span class="paper-authors">Solo-authored</span> <span class="pill pill-accent">Latest working version: July 2026</span></p>
+<p class="paper-meta"><span class="paper-authors">Solo-authored</span></p>
 
 This paper studies electricity generation as a critical infrastructure supporting the expansion of artificial intelligence.<span class="abstract-rest" hidden> I examine how private capital affects the operation and longevity of the fossil power plants that increasingly supply data center demand. Linking high frequency production and emissions data to transaction level ownership records, I find that private equity ownership improves thermal efficiency by about 2&ndash;5%, reducing annual CO&#8322; emissions equivalent to those of 1.3 million passenger vehicles. These operating gains come with a countervailing effect: private equity also reduces the hazard of fossil asset retirement by roughly three-quarters, making the net climate impact depend on what capacity would otherwise replace retired plants. To discipline the mechanism, I derive and test predictions about sponsor-asset matching, heterogeneous treatment effects, and post-acquisition operating practices. The gains concentrate where owners possess technologically relevant portfolio experience and greater control over plant operations, consistent with specialist knowledge being transferred across related assets. The paper shows how ownership change can reorganize legacy infrastructure in ways that improve short-run operating performance while reshaping the long-run path of decarbonization.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
