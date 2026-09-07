@@ -24,6 +24,7 @@ This paper studies electricity generation as a critical infrastructure supportin
 - *Top 10 Finalist*, Three Minute Thesis (3MT) Competition, Harvard University, 2026
 - *Best Paper Designation* (Chapter 1), Academy of Management Annual Meeting, 2025
 - *Best Paper Nomination* (Chapter 2), Strategic Management Society Annual Meeting, 2026
+- *Best Proposal Award Nominee* (Chapter 2), Strategic Management Society Competitive Strategy Interest Group, 2026
 
 ## Submitted Papers
 
@@ -32,6 +33,12 @@ This paper studies electricity generation as a critical infrastructure supportin
 <p class="paper-meta"><span class="paper-authors">with J. Barney</span> <span class="pill">Under review</span></p>
 
 Abstract: Profit-generating firms can sustain their performance-even in the absence of barriers to entry and costly to imitate resources and capabilities-if they and the profits they generate are "invisible" to potential competitors.<span class="abstract-rest" hidden> "Invisibility" can lead to "competitive neglect" which can enable a firm to generate "unawareness rents," all without traditional impediments to competition. This paper explores the conditions under which "invisibility" may exist and persist, how firm "invisibility" can evolve over time, and the relationship between invisibility and other impediments to competition.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
+
+### [Entrepreneurial Projection Strategy: Constructing Credibility Through Grounding and Calibration](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.13666abstract)
+
+<p class="paper-meta"><span class="paper-authors">with A. Peterson, R. Wang, A. Wu</span> <span class="pill">Revise &amp; resubmit at <em>Strategic Management Journal</em></span></p>
+
+Abstract: Revenue projections in entrepreneurship are speculative: entrepreneurs can make up any number, and investors know that the number is made up.<span class="abstract-rest" hidden> We develop a framework of entrepreneurial projection strategy explaining how these projections acquire persuasive force under bidirectional information asymmetry. Grounding makes projections analytically interpretable by disclosing entrepreneur-held assumptions and contingencies. Calibration makes projections plausible relative to investor-held benchmarks. Using 1,493 investor evaluations from 436 investors assessing 254 startup business plans, we find that larger revenue projections are evaluated more favorably when accompanied by cost estimates or risk disclosure. Projections above the evaluation cohort are rewarded, but the benefit reverses as projections stretch further beyond peers. These findings illuminate how entrepreneurs construct credibility from seemingly made-up numbers.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
 ### Generative AI and the Ability of Entrepreneurial Opportunities to Generate Sustained Competitive Advantages
 
@@ -51,27 +58,25 @@ Abstract: A central concern of many policy debates has been to foster more innov
 
 <p class="paper-note">An earlier version of the job market paper.</p>
 
-### [Entrepreneurial Projection Strategy: Constructing Credibility Through Grounding and Calibration](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.13666abstract)
+### Entrepreneurship and AI: Evidence from GPT-Powered Bing
 
-<p class="paper-meta"><span class="paper-authors">with A. Peterson, R. Wang, A. Wu (authorship in alphabetical order)</span> <span class="pill">Revise &amp; resubmit at <em>Strategic Management Journal</em></span></p>
-
-Abstract: Revenue projections in entrepreneurship are speculative: entrepreneurs can make up any number, and investors know that the number is made up.<span class="abstract-rest" hidden> We develop a framework of entrepreneurial projection strategy explaining how these projections acquire persuasive force under bidirectional information asymmetry. Grounding makes projections analytically interpretable by disclosing entrepreneur-held assumptions and contingencies. Calibration makes projections plausible relative to investor-held benchmarks. Using 1,493 investor evaluations from 436 investors assessing 254 startup business plans, we find that larger revenue projections are evaluated more favorably when accompanied by cost estimates or risk disclosure. Projections above the evaluation cohort are rewarded, but the benefit reverses as projections stretch further beyond peers. These findings illuminate how entrepreneurs construct credibility from seemingly made-up numbers.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
+<p class="paper-meta"><span class="paper-authors">with S. Counts</span> <span class="pill">Under Microsoft Research internal review</span></p>
 
 ## Working Papers
 
 ### Regulating Product Innovation: Certification Reform and Market Evolution in U.S. Wireless Communications
 
-<p class="paper-meta"><span class="paper-authors">with S. Greenstein, R. Fontana, DY Kim</span> <span class="pill">Manuscript available upon request</span></p>
+<p class="paper-meta"><span class="paper-authors">with S. Greenstein, R. Fontana, DY Kim</span> <span class="pill">In preparation for submission</span></p>
 
 Abstract: How does a decline in regulatory burdens shape product introduction, firm participation, and competitive dynamics in technology markets?<span class="abstract-rest" hidden> This study examines the Federal Communications Commission's transformation of wireless device regulation between 1997 and 2001. Using administrative records covering nearly 200,000 equipment authorization applications between 1990 and 2015, the study documents market, firm, and product outcomes following a decline in regulatory costs. The study documents four broad patterns. First, regulatory processing times fell sharply, followed by a sustained expansion in product introductions and firm participation, especially in unlicensed spectrum applications. Second, this expansion was driven disproportionately by new entrants, who contributed extensively to product variety and experimentation. Third, despite heightened entry and competition, established firms retained persistent survival advantages. Fourth, the combination of widespread entry and incumbent persistence is difficult to reconcile with strong forms of regulatory capture. Taken together, the findings suggest that well-designed regulatory reforms can simultaneously enable entrant-led experimentation while preserving incumbent persistence. The findings inform contemporary debates on regulating emerging technologies, in which similar privatized certification models are being considered.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
+
+### Residual Heterogeneity
+
+<p class="paper-meta"><span class="paper-authors">with R. Wuebker, J. Barney</span> <span class="pill">Manuscript available upon request</span></p>
 
 ### When the Storm Hits: Climate Shocks and Multi-Unit Firm Location Strategy
 
 <p class="paper-meta"><span class="paper-authors">with J. Alc&aacute;cer</span> <span class="pill">Data and analysis in progress</span></p>
-
-### Entrepreneurship and AI: Evidence from GPT-Powered Bing
-
-<p class="paper-meta"><span class="paper-authors">with S. Counts</span> <span class="pill">Under Microsoft Research internal review</span></p>
 
 ### [Incorporating Google Trends Data Using Bayesian Structural Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3085010)
 
@@ -82,6 +87,7 @@ Abstract: The paper examines the benefits of incorporating Google Trends data in
 ## Other Writing
 
 - Barney, J.B., **Zhang, H.**, & Neumann, J. (2026). [Invisible companies](https://colossus.com/article/invisible-companies/). *Colossus*.
+- Barney, J.B., Neumann, J., Wuebker, R., & **Zhang, H.** (2026). AI, business models, and sustainable competitive advantage. *Tsinghua Business Review*.
 - **Zhang, H.**, Stewart, S., Chui, M., Manyika, J., Julien, J.P., Dame Hunt, V., Sternfels, B., & Woetzel, J. (2021). [The economic state of Black America](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/the-economic-state-of-black-america-what-is-and-what-could-be). McKinsey & Company.
 - **Zhang, H.** (2020). Cross-country GDP comparison: [Purchasing power parity](https://www.ftchinese.com/story/001087981?full=y&ccode=2G202004&archive) sexennial update. *The Financial Times*.
 - Laboure, M., **Zhang, H.**, & Braunstein, J. (2018). The rise of [Silicon China](https://www.project-syndicate.org/commentary/china-artificial-intelligence-research-development-by-marion-laboure-1-et-al-2018-04). *Project Syndicate*.
