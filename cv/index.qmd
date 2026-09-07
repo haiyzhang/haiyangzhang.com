@@ -3,8 +3,8 @@ title: "CV"
 ---
 
 <div class="cv-mobile">
-<p>On a phone, the preview below may show only the first page. For the full CV:</p>
-<a class="cv-open" href="/assets/haiyang_cv.pdf">Open the CV (PDF)</a>
+<p>The embedded preview may show only the first page on phones and tablets. For the full CV:</p>
+<a class="cv-open" href="/assets/haiyang_cv.pdf" target="_blank" rel="noopener">Open the CV (PDF)</a>
 </div>
 
 <iframe class="cv-frame" src="/assets/haiyang_cv.pdf" title="Haiyang Zhang CV"></iframe>
