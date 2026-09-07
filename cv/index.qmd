@@ -3,7 +3,6 @@ title: "CV"
 ---
 
 <div class="cv-mobile">
-<p>The embedded preview may show only the first page on phones and tablets. For the full CV:</p>
 <a class="cv-open" href="/assets/haiyang_cv.pdf" target="_blank" rel="noopener">Open the CV (PDF)</a>
 </div>
 

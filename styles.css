@@ -535,19 +535,15 @@ blockquote p:last-child {
 }
 
 /* Phones and tablets render only the first page of an embedded PDF;
-   always offer a direct link into the browser's full-screen viewer. */
+   on touch devices and narrow screens, offer a direct link into the
+   browser's full-screen viewer. Hidden on desktop. */
 .cv-mobile {
-  display: block;
-  border: 1px solid var(--hairline);
-  border-radius: 10px;
-  background: var(--surface);
-  padding: 1.1rem 1.2rem 1.25rem;
+  display: none;
   margin-bottom: 1rem;
 }
 
-.cv-mobile p {
-  margin: 0 0 0.85rem;
-  color: var(--ink-soft);
+@media (max-width: 1024px), (hover: none) and (pointer: coarse) {
+  .cv-mobile { display: block; }
 }
 
 .cv-open {
